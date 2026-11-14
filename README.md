@@ -10,7 +10,7 @@
 
 - 🎓 Computer Science student
 - 🔭 Currently working on **[expense-tracker-postgres](https://github.com/Bhavya2258/expense-tracker-postgres)**
-- 🌱 Currently learning **Data Structures & Algorithms and Open Source Contribution**
+- 🌱 Currently learning **Data Structures & Algorithms ,Spring Boot and Open Source Contribution**
 - 💻 Solving problems on **LeetCode**
 - 🚀 Interested in **Software Development, Open Source and AI/ML**
 - 🧠 Currently building projects with **Java, C++, Python and Web Technologies**
