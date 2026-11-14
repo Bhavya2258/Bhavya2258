@@ -15,7 +15,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science student
-- 🔭 Currently working on **[Edu_Portal](https://github.com/Bhavya2258/Edu_Portal)**
+- 🔭 Currently working on **[expense-tracker-postgres](https://github.com/Bhavya2258/expense-tracker-postgres)**
 - 🌱 Currently learning **Data Structures & Algorithms and Open Source Contribution**
 - 💻 Solving problems on **LeetCode**
 - 🚀 Interested in **Software Development, Open Source and AI/ML**
